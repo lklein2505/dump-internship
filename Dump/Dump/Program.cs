@@ -8,6 +8,7 @@ namespace Dump
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from second commit!");
+            Console.WriteLine("Hello from second commit!");
         }
     }
 }
